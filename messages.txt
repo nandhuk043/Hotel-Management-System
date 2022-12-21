@@ -1,0 +1,6 @@
+>>
+This is messaging portal
+hi manager 22 41,owner
+hello manager,owner
+Hello owner,admin
+I am the owner of this hotel,owner
